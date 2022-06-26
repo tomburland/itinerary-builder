@@ -1,1 +1,1 @@
-# itinerarybuilder
+# itinerary-builder
